@@ -1,6 +1,4 @@
 
-n1 = 10 ; n2 = 5
-
 def propaganda_CFB_Cursos( ) :
     
     print ( "\nCurso de Python - CFB Cursos" )
