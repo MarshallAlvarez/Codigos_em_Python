@@ -36,13 +36,3 @@ carros = {
 carros_json = json.dumps( carros )
 
 print( "\n\n" + str( carros_json ) + '\n' )
-
-
-
-
-
-
-
-
-
-
